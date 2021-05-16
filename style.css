@@ -1,0 +1,12 @@
+.heading {
+    font-family: 'Noto Sans JP', sans-serif;
+    background-color: lightblue;
+    border-radius: 200px;
+    width: 500px;
+}
+
+.document {
+    background-color: pink;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Noto Sans JP', sans-serif;
+}
